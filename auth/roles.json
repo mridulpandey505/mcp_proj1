@@ -1,0 +1,16 @@
+{
+  "analyst": [
+    "query_sales_data"
+  ],
+  "ml_engineer": [
+    "query_sales_data",
+    "train_model",
+    "predict_churn"
+  ],
+  "admin": [
+    "query_sales_data",
+    "train_model",
+    "run_etl",
+    "predict_churn"
+  ]
+}
